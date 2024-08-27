@@ -13,7 +13,7 @@ jobs:
      run: echo "this workflow run successfully for this particular action"
 
    - name: Simulate Error
-     run: echo"Error simulated"; exit 1
+     run: echo "Error simulated"; exit 1
     
    
  
